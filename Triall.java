@@ -10,6 +10,9 @@ public class Triall {
         System.out.println("--------------------------");
         System.out.println("--------------------------");
         System.out.println(new Date());
+        System.out.println(new Date());
+        System.out.println(new Date());
+        System.out.println("we live in Shimla");
         
     }
     
